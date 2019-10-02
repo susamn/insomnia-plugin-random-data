@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-random-data",
+  "version": "1.0.0",
+  "description": "Random data selector from a list of values separated by a delimeter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supratim Samanta",
+  "license": "MIT",
+  "insomnia": {
+      "name" : "RandomData",
+      "description" : "Random data selector from a list of values separated by a delimeter."
+  }
+}
