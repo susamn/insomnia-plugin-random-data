@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-random-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random data selector from a list of values separated by a delimeter.",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "insomnia": {
       "name" : "RandomData",
       "description" : "Random data selector from a list of values separated by a delimeter."
-  }
+  },
+  "repository":"https://github.com/susamn/insomnia-plugin-random-data/tree/master"
 }
